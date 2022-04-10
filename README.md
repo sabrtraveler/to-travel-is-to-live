@@ -8,6 +8,8 @@ This challenge was to update an existing budget tracker application to allow for
 
 ### App Deployed to Heroku
 
+deployed app: https://budget-tracker-pwa-app.herokuapp.com/
+
 ### User Story
 
 ```
