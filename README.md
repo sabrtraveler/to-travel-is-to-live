@@ -6,6 +6,10 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 This challenge was to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
 
+### App Screenshot
+
+![](images/budget-tracker.png)
+
 ### App Deployed to Heroku
 
 deployed app: https://budget-tracker-pwa-app.herokuapp.com/
